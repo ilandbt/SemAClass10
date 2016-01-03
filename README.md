@@ -1,4 +1,4 @@
-# Class 9
+# Class 10
 
 - See [MainActivity](app/src/main/java/com/bentals/class10/MainActivity.java)
 - See [Utils](app/src/main/java/com/bentals/class10/Utils.java) for dialog managment.
